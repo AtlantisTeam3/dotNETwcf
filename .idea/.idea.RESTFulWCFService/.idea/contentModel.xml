@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Lumix\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_RESTFulWCFService.-1294124700.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Lumix\Desktop\RESTFulWCFService" t="IncludeFlat">
+      <e p="DotnetmentorsClient" t="IncludeRecursive">
+        <e p="app.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DotnetmentorsClient.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="RESTFulWCFService" t="IncludeRecursive">
+        <e p="App_Data" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="IOrderService.cs" t="Include" />
+        <e p="IProductService.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="OrderContract.cs" t="Include" />
+        <e p="Orders.xml" t="Include" />
+        <e p="OrderService.svc" t="Include" />
+        <e p="OrderService.svc.cs" t="Include" />
+        <e p="products.xml" t="Include" />
+        <e p="ProductService.svc" t="Include" />
+        <e p="ProductService.svc.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="RESTFulWCFService.csproj" t="IncludeRecursive" />
+        <e p="Web.config" t="Include" />
+        <e p="Web.Debug.config" t="Include" />
+        <e p="Web.Release.config" t="Include" />
+      </e>
+      <e p="RESTFulWCFService.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

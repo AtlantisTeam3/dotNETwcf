@@ -1,0 +1,17 @@
+C:\Users\NQE8503\Laxmikant\Applications\RESTFulWCFService\RESTFulWCFService\bin\RESTFulWCFService.dll
+C:\Users\NQE8503\Laxmikant\Applications\RESTFulWCFService\RESTFulWCFService\bin\RESTFulWCFService.pdb
+C:\Users\NQE8503\Laxmikant\Applications\RESTFulWCFService\RESTFulWCFService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NQE8503\Laxmikant\Applications\RESTFulWCFService\RESTFulWCFService\obj\Debug\RESTFulWCFService.dll
+C:\Users\NQE8503\Laxmikant\Applications\RESTFulWCFService\RESTFulWCFService\obj\Debug\RESTFulWCFService.pdb
+C:\Laxmikant\D\Applications\RESTFulWCFService\RESTFulWCFService\bin\RESTFulWCFService.dll
+C:\Laxmikant\D\Applications\RESTFulWCFService\RESTFulWCFService\bin\RESTFulWCFService.pdb
+C:\Laxmikant\D\Applications\RESTFulWCFService\RESTFulWCFService\obj\Debug\ResolveAssemblyReference.cache
+C:\Laxmikant\D\Applications\RESTFulWCFService\RESTFulWCFService\obj\Debug\RESTFulWCFService.dll
+C:\Laxmikant\D\Applications\RESTFulWCFService\RESTFulWCFService\obj\Debug\RESTFulWCFService.pdb
+C:\Users\Lumix\Desktop\RESTFulWCFService\RESTFulWCFService\bin\RESTFulWCFService.dll.config
+C:\Users\Lumix\Desktop\RESTFulWCFService\RESTFulWCFService\bin\RESTFulWCFService.dll
+C:\Users\Lumix\Desktop\RESTFulWCFService\RESTFulWCFService\bin\RESTFulWCFService.pdb
+C:\Users\Lumix\Desktop\RESTFulWCFService\RESTFulWCFService\obj\Debug\RESTFulWCFService.csprojAssemblyReference.cache
+C:\Users\Lumix\Desktop\RESTFulWCFService\RESTFulWCFService\obj\Debug\RESTFulWCFService.csproj.CoreCompileInputs.cache
+C:\Users\Lumix\Desktop\RESTFulWCFService\RESTFulWCFService\obj\Debug\RESTFulWCFService.dll
+C:\Users\Lumix\Desktop\RESTFulWCFService\RESTFulWCFService\obj\Debug\RESTFulWCFService.pdb
