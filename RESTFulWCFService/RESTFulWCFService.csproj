@@ -69,8 +69,6 @@
       <SubType>Designer</SubType>
     </Content>
     <Content Include="OrderService.svc" />
-    <Content Include="products.xml" />
-    <Content Include="ProductService.svc" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -81,13 +79,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IOrderService.cs" />
-    <Compile Include="IProductService.cs" />
     <Compile Include="OrderContract.cs" />
     <Compile Include="OrderService.svc.cs">
       <DependentUpon>OrderService.svc</DependentUpon>
-    </Compile>
-    <Compile Include="ProductService.svc.cs">
-      <DependentUpon>ProductService.svc</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

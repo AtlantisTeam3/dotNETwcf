@@ -303,4 +303,58 @@
     <deviceType>presenceSensor</deviceType>
     <metricValue>string</metricValue>
   </Devices>
+  <Devices>
+    <deviceID>test27</deviceID>
+    <metricDate>2018-06-27T10:02:16.893Z</metricDate>
+    <deviceType>presenceSensor</deviceType>
+    <metricValue>string</metricValue>
+  </Devices>
+  <Devices>
+    <deviceID>test27</deviceID>
+    <metricDate>2018-06-27T10:02:16.893Z</metricDate>
+    <deviceType>presenceSensor</deviceType>
+    <metricValue>string</metricValue>
+  </Devices>
+  <Devices>
+    <deviceID>test27</deviceID>
+    <metricDate>2018-06-27T10:02:16.893Z</metricDate>
+    <deviceType>presenceSensor</deviceType>
+    <metricValue>string</metricValue>
+  </Devices>
+  <Devices>
+    <deviceID>test27</deviceID>
+    <metricDate>2018-06-27T10:02:16.893Z</metricDate>
+    <deviceType>presenceSensor</deviceType>
+    <metricValue>string</metricValue>
+  </Devices>
+  <Devices>
+    <deviceID>test27</deviceID>
+    <metricDate>2018-06-27T10:02:16.893Z</metricDate>
+    <deviceType>presenceSensor</deviceType>
+    <metricValue>string</metricValue>
+  </Devices>
+  <Devices>
+    <deviceID>test27</deviceID>
+    <metricDate>2018-06-27T10:02:16.893Z</metricDate>
+    <deviceType>presenceSensor</deviceType>
+    <metricValue>string</metricValue>
+  </Devices>
+  <Devices>
+    <deviceID />
+    <metricDate>2018-06-27T10:02:16.893Z</metricDate>
+    <deviceType>presenceSensor</deviceType>
+    <metricValue>string</metricValue>
+  </Devices>
+  <Devices>
+    <deviceID />
+    <metricDate>2018-06-27T10:02:16.893Z</metricDate>
+    <deviceType>presenceSensor</deviceType>
+    <metricValue>string</metricValue>
+  </Devices>
+  <Devices>
+    <deviceID>test40</deviceID>
+    <metricDate>2018-06-27T10:02:16.893Z</metricDate>
+    <deviceType>presenceSensor</deviceType>
+    <metricValue>string</metricValue>
+  </Devices>
 </DocumentElement>
