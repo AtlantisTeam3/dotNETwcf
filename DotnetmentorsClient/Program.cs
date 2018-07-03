@@ -25,21 +25,25 @@ namespace DotnetmentorsClient
             OrderContract order = new OrderContract
             {
                
-                metricDate = DateTime.Now.ToString(),
-                deviceType = "presenceSensor",
-                metricValue = "string",
-                deviceID = ""
+                metricDate = null,
+                deviceType = null,
+                metricValue = null,
+                deviceID = null
             };      
       
             DataContractJsonSerializer ser = new DataContractJsonSerializer(typeof(OrderContract));
             MemoryStream mem = new MemoryStream();
-            ser.WriteObject(mem, order);
-            string data = Encoding.UTF8.GetString(mem.ToArray(), 0, (int)mem.Length);
-            WebClient webClient = new WebClient();            
-            webClient.Headers["Content-type"] = "application/json";            
-            webClient.Encoding = Encoding.UTF8;
-            webClient.UploadString("http://localhost:61090/OrderService.svc/device", "POST", data);              
-            Console.WriteLine("Order placed successfully...");  
+            if (order.deviceType != null)
+            {
+                ser.WriteObject(mem, order);
+                string data = Encoding.UTF8.GetString(mem.ToArray(), 0, (int)mem.Length);
+                WebClient webClient = new WebClient();
+                webClient.Headers["Content-type"] = "application/json";
+                webClient.Encoding = Encoding.UTF8;
+                webClient.UploadString("http://10.162.50.14:61090/OrderService.svc/device", "POST", data);
+                Console.WriteLine("Order placed successfully...");
+            }
+            
         }
     }
 }
