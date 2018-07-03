@@ -16,3 +16,13 @@ C:\Users\Lumix\Desktop\RESTFulWCFService\CalculatedDB\obj\Debug\CalculatedDB.csp
 C:\Users\Lumix\Desktop\RESTFulWCFService\CalculatedDB\obj\Debug\CalculatedDB.csproj.CopyComplete
 C:\Users\Lumix\Desktop\RESTFulWCFService\CalculatedDB\obj\Debug\CalculatedDB.exe
 C:\Users\Lumix\Desktop\RESTFulWCFService\CalculatedDB\obj\Debug\CalculatedDB.pdb
+C:\Users\Lumix\Desktop\RESTFulWCFService\CalculatedDB\bin\Debug\Publisher.exe
+C:\Users\Lumix\Desktop\RESTFulWCFService\CalculatedDB\bin\Debug\EasyNetQ.dll
+C:\Users\Lumix\Desktop\RESTFulWCFService\CalculatedDB\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Lumix\Desktop\RESTFulWCFService\CalculatedDB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lumix\Desktop\RESTFulWCFService\CalculatedDB\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Lumix\Desktop\RESTFulWCFService\CalculatedDB\bin\Debug\Publisher.pdb
+C:\Users\Lumix\Desktop\RESTFulWCFService\CalculatedDB\bin\Debug\Publisher.exe.config
+C:\Users\Lumix\Desktop\RESTFulWCFService\CalculatedDB\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Lumix\Desktop\RESTFulWCFService\CalculatedDB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lumix\Desktop\RESTFulWCFService\CalculatedDB\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
